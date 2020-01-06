@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">myWallet</string>
+
+    <string name="type">Type</string>
+    <string name="amount">Amount</string>
+    <string name="Date">Date</string>
+
+
+</resources>
